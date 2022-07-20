@@ -12,4 +12,7 @@ Developing a deep learning based model optimized with a Nature-inspired Metaheur
 
 ## Machine Learning Projects:
 🔹 [Customer Churn Prediction-  ](https://github.com/AmannAnand/Customer-Churn-Prediction-using-Logistic-Regression)
-Performing extensive Exploratory Data Analysis (EDA) to identify the best features for model building, and predicting customer churn for a bank using Logistic Regression. 
+Performing extensive Exploratory Data Analysis (EDA) to identify the best features for model building, and predicting customer churn for a bank using Logistic Regression.
+
+🔹 [Web Page Classification-  ](https://github.com/AmannAnand/Web-Page-Classification)
+Building a classifier which predicts given URLs of webpages to a particular class based on the information conveyed on the webpage.
